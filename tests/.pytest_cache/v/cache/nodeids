@@ -1,0 +1,5 @@
+[
+  "test_my_tasks.py::LoginTests::test_a_validLogin",
+  "test_my_tasks.py::LoginTests::test_b_my_tasks",
+  "test_my_tasks.py::LoginTests::test_d_my_tasks"
+]
